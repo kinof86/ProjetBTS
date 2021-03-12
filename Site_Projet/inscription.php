@@ -39,7 +39,7 @@ if(isset($_POST['validation_inscription']))
                    <input type="texte" name="nom" id="nom" placeholder="Nom" required="required">
                    <form method="post" action>
                    <button type="submit"  name ="validation_inscription" id="validation_inscription"  >Inscription</button>
-                   <button type="button" onClick="window.location='index.php';" id="retour">Retours </button>
+                   <button type="button" onClick="window.location='index.php';" id="retour">Retour </button>
 
 </form>
 
